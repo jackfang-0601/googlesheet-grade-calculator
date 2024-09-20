@@ -89,14 +89,14 @@ Here are some example:
   Final Project(Test)
 
 
-# Contact info
+# Contact info 
+That's it for now. I hope this code can help any teachers to grade faster.
 
 If you have any question. Feel free to email me or ask a question on this page.
 
 My email is jackfang0601@gmail.com
 
 
-Thank you for 
 
 
 
