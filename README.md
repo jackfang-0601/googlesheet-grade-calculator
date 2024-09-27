@@ -82,7 +82,7 @@ Test: Test+ numbers For example: Test 1, Unit 1 Test
 In this version of the grading calculator, there isn't a specific category for projects, so they are grouped together with quizzes under the same category. To ensure the code correctly processes the grades for each assignment, you will need to specify “quiz”. This will allow the script to appropriately identify and calculate scores based on the quiz grading criteria.
 Feel free to put "homework" or "test" , it also works. It will just calcucalte the category you wanted to be. 
 
-Here are some example:
+Here are some examples:
 
   Project 1(Quiz)
 
